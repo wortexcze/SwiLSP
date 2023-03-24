@@ -1,0 +1,424 @@
+﻿  Books.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(13,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(14,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(15,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(15,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(16,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(16,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(17,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(17,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(17,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(18,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(18,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(18,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(19,8): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(30,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(31,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(32,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(32,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(33,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(33,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(34,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(34,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(34,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(35,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(35,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(35,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(36,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(36,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(36,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(38,43): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(39,52): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(46,4): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(47,4): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(48,4): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(48,33): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(48,14): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(49,10): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(69,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(70,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(71,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(71,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(72,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(72,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(73,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(73,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(73,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(74,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(74,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(74,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(75,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(75,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(75,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(77,40): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(78,43): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(79,31): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(79,51): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(80,44): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(81,40): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(92,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(93,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(94,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(94,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(95,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(95,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(96,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(96,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(96,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(97,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(97,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(97,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(98,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(99,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(100,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(100,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(101,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(101,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(102,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(102,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(102,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(103,10): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(103,32): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(103,16): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(105,18): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(106,17): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(112,3): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(113,3): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(114,3): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(114,11): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(115,3): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(115,7): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(116,15): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(116,21): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(116,3): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(124,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(125,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(125,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(126,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(126,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(126,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(127,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(127,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(127,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Books.cpp(127,35): fatal  error C1003: Počet chyb překračuje 100; kompilace se zastavuje.
+  Employees.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(7,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(8,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(9,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(9,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(10,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(10,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(11,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(11,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(11,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(12,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(12,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(12,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(13,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(13,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(13,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(20,23): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(46,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(47,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(48,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(48,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(49,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(49,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(50,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(50,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(50,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(59,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(60,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(61,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(61,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(62,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(62,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(63,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(63,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(63,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(64,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(64,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(64,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(65,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(65,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(65,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(72,23): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(81,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(82,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(83,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(83,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(84,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(84,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(85,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(85,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(85,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(95,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(96,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(97,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(97,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(98,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(98,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(99,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(99,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(99,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(100,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(100,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(100,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(101,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(101,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(101,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(104,24): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(105,35): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(105,53): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(105,71): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(106,25): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(107,31): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(108,32): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(109,26): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(120,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(121,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(121,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(122,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(122,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(122,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(123,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(123,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(123,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(124,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(124,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(124,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(129,25): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(130,36): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(130,54): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(130,72): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(131,26): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(132,32): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(133,33): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(134,27): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(136,13): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(136,35): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(136,19): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(149,8): error C2039: setId není členem: Employees.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.h(11,7): message : viz deklarace: Employees
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(152,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(153,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(154,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(154,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Employees.cpp(154,14): fatal  error C1003: Počet chyb překračuje 100; kompilace se zastavuje.
+  LSP.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\LSP.cpp(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql.h: No such file or directory
+  Members.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.h(6,1): error C7529: Několik deklarátorů using vyžaduje nejméně /std:c++17.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.h(16,23): error C2562: Members::getId: funkce void vrací hodnotu.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.h(16,7): message : viz deklarace: Members::getId
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(14,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(15,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(16,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(16,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(17,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(17,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(18,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(18,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(18,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(20,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(21,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(22,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(22,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(23,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(23,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(24,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(24,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(24,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(25,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(25,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(25,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(26,2): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(26,24): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(26,8): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(28,75): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(35,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(36,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(36,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(37,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(37,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(37,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(44,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(45,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(46,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(46,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(47,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(47,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(48,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(48,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(48,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(49,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(49,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(49,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(50,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(50,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(50,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(53,24): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(54,35): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(54,53): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(54,71): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(55,25): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(56,31): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(57,41): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(58,40): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Members.cpp(59,37): error C2065: row: nedeklarovaný identifikátor
+  Purchases.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.h(14,7): error C3646: dt_ordered: neznámý specifikátor override
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.h(14,17): error C4430: Chybějící specifikátor typu – předpokládá se typ int. Poznámka: C++ nepodporuje typ default-int.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(13,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(14,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(15,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(15,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(16,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(16,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(17,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(17,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(17,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(25,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(26,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(27,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(27,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(28,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(28,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(29,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(29,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(29,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(37,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(38,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(39,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(39,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(40,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(40,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(41,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(41,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(41,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(62,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(63,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(64,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(64,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(65,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(65,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(66,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(66,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(66,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(67,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(67,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(67,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(74,10): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(74,32): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(74,16): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(77,28): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(78,27): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(79,30): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(80,28): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(81,32): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Purchases.cpp(82,43): error C2065: row: nedeklarovaný identifikátor
+  Sales.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.h(4,1): error C7529: Několik deklarátorů using vyžaduje nejméně /std:c++17.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(12,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(13,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(14,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(14,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(15,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(15,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(16,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(16,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(16,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(17,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(17,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(17,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(18,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(18,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(18,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(20,35): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(21,17): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(26,3): error C3861: getch: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(29,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(30,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(31,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(31,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(32,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(32,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(33,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(33,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(33,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(35,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(36,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(37,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(37,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(38,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(38,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(39,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(39,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(39,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(40,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(40,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(40,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(41,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(41,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(41,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(43,48): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(54,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(55,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(55,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(56,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(56,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(56,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(57,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(57,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(57,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(58,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(58,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(58,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Sales.cpp(60,41): error C2065: row: nedeklarovaný identifikátor
+  Suppliers.cpp
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.h(3,1): error C7529: Několik deklarátorů using vyžaduje nejméně /std:c++17.
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(15,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(16,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(17,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(17,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(18,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(18,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(19,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(19,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(19,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(20,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(20,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(20,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(21,8): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(31,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(32,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(33,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(33,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(34,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(34,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(35,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(35,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(35,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(43,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(44,2): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(45,2): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(45,10): error C2065: stmt: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(46,2): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(46,6): error C2065: query: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(47,14): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(47,20): error C2065: q: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(47,2): error C3861: mysql_query: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(48,2): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(48,31): error C2065: conn: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(48,12): error C3861: mysql_store_result: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(49,7): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(49,29): error C2065: res_set: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(49,13): error C3861: mysql_fetch_row: identifikátor se nenašel
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(51,42): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(52,24): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(53,29): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(54,34): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(55,34): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(56,24): error C2065: row: nedeklarovaný identifikátor
+C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Suppliers.cpp(57,25): error C2065: row: nedeklarovaný identifikátor
+  Generování kódu...
