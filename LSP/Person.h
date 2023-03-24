@@ -7,6 +7,7 @@ using std::string;
 class Person
 {
 protected:
+    int id;
     string name;
     string addr_line1;
     string addr_line2;
@@ -15,6 +16,7 @@ protected:
     long int phn;
 
 public:
+    virtual int getId() const;
    virtual string getName() const;
    virtual string getAddrLine1() const;
    virtual string getAddrLine2() const;
@@ -23,6 +25,7 @@ public:
    virtual long int getPhn() const;
 
     // Setters
+   virtual void setId(int i);
    virtual void setName(const string& newName);
    virtual void setAddrLine1(const string& newAddrLine1);
    virtual void setAddrLine2(const string& newAddrLine2);
