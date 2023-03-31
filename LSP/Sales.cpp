@@ -63,7 +63,7 @@ void Sales::find_total_sales()
 
 void Sales::find_all_salesbyAuthorId(Books a) const{
 
-	int id = a.GetAuthor()->getId();
+	int id = a.GetauthorId();
 
 	
 	query = "select mem_id,book_id,qty,amt,sales_date  from sales where book_id"+id;

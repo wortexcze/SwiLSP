@@ -137,8 +137,7 @@ void Books::display()
 	}
 }
 
-
-Person* Books::GetAuthor() const {
-	return this->author;
+int  Books::GetauthorId() const {
+	return author->getId();
 }
 

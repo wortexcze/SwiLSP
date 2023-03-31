@@ -24,7 +24,7 @@ public:
 	void display();
 
 	//pro demeter
-	Person* GetAuthor() const;
+	int GetauthorId() const;
 
 };
 
