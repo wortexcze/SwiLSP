@@ -56,5 +56,15 @@ int main()
 	display(*m); //tohle se zobrazí v pořadku
 	display(*e); //tohle se zobrazí v pořadku
 	display(*p); //tady nastane chyba protože podle LSP má být bázová třída Person volně zastupitelná
+
+
+	//demeter
+	Sales* s=new Sales();
+	Books* b = new Books();
+	b->add();
+	s->find_all_salesbyAuthorId(*b);
+
+
+
 	return 0;
 }

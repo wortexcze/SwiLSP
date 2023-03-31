@@ -21,7 +21,7 @@ void Books::add()
 	else
 		cout << endl << endl << "Entry ERROR !" << endl << "Contact Technical Team " << endl << endl << endl;
 }
-
+/**/
 void Books::update_price()
 {
 	char choice;
@@ -61,6 +61,7 @@ void Books::update_price()
 		cout << "No Book found!!!";
 	}
 }
+*/
 
 void Books::search()
 {
@@ -86,6 +87,7 @@ void Books::search()
 	}
 }
 
+/*
 void Books::update()
 {
 	int b_id[100], qty[100], i = 0, max;
@@ -116,7 +118,7 @@ void Books::update()
 		mysql_query(conn, q);
 	}
 	cout << "The orders recieved have been updated.";
-}
+}*/
 
 void Books::display()
 {
@@ -135,4 +137,8 @@ void Books::display()
 	}
 }
 
+
+Person* Books::GetAuthor() const {
+	return this->author;
+}
 

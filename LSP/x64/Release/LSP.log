@@ -1,18 +1,1 @@
-﻿  Books.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Employees.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Functions.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  LSP.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\LSP.cpp(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Members.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Person.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Purchases.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Sales.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
-  Suppliers.cpp
-C:\Users\Jakub\Desktop\SWI2\LSP\LSP\Settings.h(3,10): fatal  error C1083: Nejde otevřít soubor zahrnout: mysql/mysql.h: No such file or directory
+﻿

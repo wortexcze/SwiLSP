@@ -60,3 +60,26 @@ void Sales::find_total_sales()
 		cout << "Total sales this year : " << row[0] << endl << endl << endl << endl;
 	}
 }
+
+void Sales::find_all_salesbyAuthorId(Books a) const{
+
+	int id = a.GetAuthor()->getId();
+
+	
+	query = "select mem_id,book_id,qty,amt,sales_date  from sales where book_id"+id;
+	q = query.c_str();
+
+	mysql_query(conn, q);
+	res_set = mysql_store_result(conn);
+	if ((row = mysql_fetch_row(res_set)) != NULL)
+	{
+		cout << "member id:" << row[0] <<"," << "book id:" << row[1] << "," << "qty:" << row[2] << "," << "amt:" << row[3] <<"," << "sales_date :" << row[4] << endl;
+	}
+	else
+	{
+		cout << "The entered details maybe wrong." << endl << "Please Recheck and Enter again" << endl << endl << endl;
+	}
+
+
+
+}

@@ -2,6 +2,7 @@
 #include "Date.h"
 #include <iostream>
 #include "Settings.h"
+#include "Books.h"
 using std::cout;
 using std::endl;
 using std::string;
@@ -18,5 +19,8 @@ class Sales
 public:
 	void add();
 	void find_total_sales();
+
+	//start demeter
+	void find_all_salesbyAuthorId(Books a) const;
 };
 
